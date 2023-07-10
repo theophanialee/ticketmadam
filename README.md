@@ -14,8 +14,9 @@ Ticketmaster has a monopoly on the ticketing world. It's past time that a compet
 * Front-end: React.js, built with Vite framework
 
 ## Getting Started
-
+This was a 3 men project.
 * Live URL: https://ticketmadam.cyclic.app
+* Git: https://github.com/t-s-w/project3/tree/main
 * Planning: https://miro.com/app/board/uXjVM9NrAOo=/
 
 ## Main Features
